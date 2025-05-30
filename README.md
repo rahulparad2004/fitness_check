@@ -3,14 +3,6 @@ https://github.com/user-attachments/assets/26695119-77b1-4f49-af5e-69ca6f616d7c
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Looks
-![Image](https://github.com/user-attachments/assets/ff3abf6f-70a1-4019-9500-5d25baa4a9ca)
-
-![Image](https://github.com/user-attachments/assets/ad4ee887-4bbc-4042-b607-9f5f4d94227b)
-
-![Image](https://github.com/user-attachments/assets/466250f9-f0ef-49fc-97f0-920d5cd509c1)
-
-![Image](https://github.com/user-attachments/assets/23d6f4e2-4535-423f-8670-d6cfcf71cc58)
-
 
 https://github.com/user-attachments/assets/bd6fa111-2b1e-40a7-9fb1-1956ec7fba95
 
